@@ -6,7 +6,7 @@ Classic Board Game Excitement on Desktop
 
 Snakes and Ladders is a thrilling classic board game experience, brought to life on your desktop. Experience the thrill of rolling the dice, the anticipation of climbing ladders, and the challenge of avoiding snakes in this digital rendition of a beloved board game classic.
 
-Note: Snakes and Ladders is designed exclusively for desktop play and will not provide an optimal experience on mobile devices.
+Note: Snakes and Ladders is designed exclusively for desktop play and will not provide an optimal experience on mobile devices. Building this Snakes and Ladders game was one of my early attempts, showcasing my growing abilities and skills. While it may not reflect my recent advancements, it remains a fun and engaging game. Give Snakes and Ladders a try and experience the thrill of this timeless game!
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
 [![React DOM](https://img.shields.io/badge/React%20DOM-18.2.0-blue)](https://reactjs.org/docs/react-dom.html)
